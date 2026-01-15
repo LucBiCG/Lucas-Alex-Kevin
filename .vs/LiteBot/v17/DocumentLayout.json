@@ -1,12 +1,153 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\cell.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:cell.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\Bot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:Bot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\Bot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:Bot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\grid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:grid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:54:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "map.c",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\map.c",
+              "RelativeDocumentMoniker": "map.c",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\map.c",
+              "RelativeToolTip": "map.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grid.c",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\grid.c",
+              "RelativeDocumentMoniker": "grid.c",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\grid.c",
+              "RelativeToolTip": "grid.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bot.c",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\Bot.c",
+              "RelativeDocumentMoniker": "Bot.c",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\Bot.c",
+              "RelativeToolTip": "Bot.c",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAAKkBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cell.c",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\cell.c",
+              "RelativeDocumentMoniker": "cell.c",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\cell.c",
+              "RelativeToolTip": "cell.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAArwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:42.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "grid.h",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\grid.h",
+              "RelativeDocumentMoniker": "grid.h",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\grid.h",
+              "RelativeToolTip": "grid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T15:21:24.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "map.h",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\map.h",
+              "RelativeDocumentMoniker": "map.h",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\map.h",
+              "RelativeToolTip": "map.h",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T15:21:23.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bot.h",
+              "DocumentMoniker": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\Bot.h",
+              "RelativeDocumentMoniker": "Bot.h",
+              "ToolTip": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\Bot.h",
+              "RelativeToolTip": "Bot.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T15:21:21.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
