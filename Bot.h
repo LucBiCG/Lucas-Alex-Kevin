@@ -29,7 +29,9 @@ struct Bot
 {
     sfVector2i position;
     sfSprite *sprite;
-    struct Move MoveQueue[];
+    struct Move* MoveQueue;  // Pointeur dynamique
+    int queueSize;          // Nombre d'éléments
+    int queueCapacity;
 };
 
 /// <summary>

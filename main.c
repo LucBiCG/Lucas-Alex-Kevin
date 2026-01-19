@@ -50,6 +50,7 @@ int main(void)
     maps[2] = CreateMap("The S", MAP_03);
     maps[3] = CreateMap("Make a Choice", MAP_04);
     maps[4] = CreateMap("The Maze", MAP_05);
+    maps[5] = CreateMap("The Chaos", MAP_06);
     // Add more maps as needed here
     
     ChangeMap(mapSelectionMenu, &maps[currentMap]);
@@ -111,12 +112,41 @@ int main(void)
                     {
                         switch (event.key.code)
                         {
-                        case sfKeyEnter:
-                            AIMoveInProgess = !AIMoveInProgess;
+                        case sfKeyR:  // R pour lancer/arrêter l'IA
+                            if (!AIMoveInProgess)
+                            {
+                                // Calculer le chemin
+                                printf("Calcul du chemin...\n");
+                                bool pathFound = SearchPath_AI(aiData->bot, aiData->grid);
+
+                                if (pathFound)
+                                {
+                                    printf("Chemin trouvé ! L'IA commence à se déplacer.\n");
+                                    AIMoveInProgess = true;
+                                    aiData->step = 0;
+                                    aiData->pathResult = NOTHING;
+                                }
+                                else
+                                {
+                                    printf("Aucun chemin trouvé !\n");
+                                }
+                            }
+                            else
+                            {
+                                // Arrêter l'IA
+                                printf("Arrêt de l'IA...\n");
+                                AIMoveInProgess = false;
+                            }
                             break;
+
                         case sfKeyBackspace:
+                            printf("Retour à la sélection de map...\n");
                             scene = MAP_SELECTION;
+                            AIMoveInProgess = false;  // Arrêter l'IA
                             break;
+
+                            // PAS de case sfKeyEnter ici !
+
                         default:
                             break;
                         }
