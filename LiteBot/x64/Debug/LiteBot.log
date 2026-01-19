@@ -1,8 +1,5 @@
 ﻿  Bot.c
-  cell.c
-  grid.c
+C:\Users\trogn\Documents\GitHub\Lucas-Alex-Kevin\Bot.c(152,1): error C2471: impossible de mettre à jour la base de données 'C:\Users\trogn\Documents\GitHub\Lucas-Alex-Kevin\LiteBot\x64\Debug\vc143.idb' du programme
   main.c
-  map.c
-  MapSelectionMenu.c
+C:\Users\trogn\Documents\GitHub\Lucas-Alex-Kevin\main.c(1,1): error C1033: impossible d'ouvrir la base de données du programme 'C:\Users\trogn\Documents\GitHub\Lucas-Alex-Kevin\LiteBot\x64\Debug\vc143.pdb'
   Génération de code en cours...
-  LiteBot.vcxproj -> C:\Users\FlowUP\Desktop\deszipeur\LiteBot\x64\Debug\LiteBot.exe

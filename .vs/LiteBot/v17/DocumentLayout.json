@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FlowUP\\Desktop\\deszipeur\\LiteBot\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T18:24:09.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "map.h",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.h",
+              "RelativeDocumentMoniker": "map.h",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.h",
+              "RelativeToolTip": "map.h",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-19T18:17:59.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
