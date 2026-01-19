@@ -7,8 +7,37 @@
       "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\cell.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:cell.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\Bot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:Bot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\Bot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:Bot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\grid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0FA91A-77F9-4ABD-8360-C87F24D30FAA}|LiteBot.vcxproj|solutionrelative:grid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +47,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+=======
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\main.c",
               "RelativeToolTip": "main.c",
+<<<<<<< Updated upstream
               "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-19T18:24:09.565Z",
@@ -35,16 +73,103 @@
             },
             {
               "$type": "Document",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:54:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "map.c",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.c",
+              "RelativeDocumentMoniker": "map.c",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.c",
+              "RelativeToolTip": "map.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:44.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "grid.c",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\grid.c",
+              "RelativeDocumentMoniker": "grid.c",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\grid.c",
+              "RelativeToolTip": "grid.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bot.c",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\Bot.c",
+              "RelativeDocumentMoniker": "Bot.c",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\Bot.c",
+              "RelativeToolTip": "Bot.c",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAAKkBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:12.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cell.c",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\cell.c",
+              "RelativeDocumentMoniker": "cell.c",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\cell.c",
+              "RelativeToolTip": "cell.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAArwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T15:21:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grid.h",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\grid.h",
+              "RelativeDocumentMoniker": "grid.h",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\grid.h",
+              "RelativeToolTip": "grid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T15:21:24.977Z"
+            },
+            {
+              "$type": "Document",
+>>>>>>> Stashed changes
               "DocumentIndex": 0,
               "Title": "map.h",
               "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.h",
               "RelativeDocumentMoniker": "map.h",
               "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\map.h",
               "RelativeToolTip": "map.h",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAIIAAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-19T18:17:59.633Z",
               "EditorCaption": ""
+=======
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T15:21:23.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bot.h",
+              "DocumentMoniker": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\Bot.h",
+              "RelativeDocumentMoniker": "Bot.h",
+              "ToolTip": "C:\\Users\\trogn\\Documents\\GitHub\\Lucas-Alex-Kevin\\Bot.h",
+              "RelativeToolTip": "Bot.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T15:21:21.571Z"
+>>>>>>> Stashed changes
             }
           ]
         }
